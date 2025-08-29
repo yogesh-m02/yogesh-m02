@@ -2,7 +2,7 @@
 
 computer science and engineering student 
 learnig coding..
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="170" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                  
 - 🌱 I’m currently learning mern stack and Integrating AI to my workflow
 - Engineeing at [<img src=<img width="717" height="697" alt="NicePng_vinayagar-images-png_2476674" src="https://github.com/user-attachments/assets/aa28ed4c-6d62-4084-8397-0f869856b2eb" />
