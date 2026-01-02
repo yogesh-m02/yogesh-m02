@@ -8,7 +8,7 @@ learnig coding..
 - Engineeing at [<img src=<img width="70" height="100" alt="NicePng_vinayagar-images-png_2476674" src="https://github.com/user-attachments/assets/aa28ed4c-6d62-4084-8397-0f869856b2eb" />
 
 
-- ⚡ Fun fact: I know french.
+
 
 
 ### I code in
