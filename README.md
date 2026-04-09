@@ -23,5 +23,5 @@ learnig coding..
  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-m02&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![LeetCode Stats](https://leetcode.panchajanya.dev/yogesh210?theme=dark&font=Merienda&ext=contest) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/yogesh210?theme=dark&font=Water%20Brush)
 [![yogesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogesh-m02&bg_color=0d1117&color=f5f5f5&line=12f368&point=ebeff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
